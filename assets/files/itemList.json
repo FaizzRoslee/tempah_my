@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Sri Manja Homestay",
+    "address": "76-1-1, Blok L, Apartment Tmn Sri Kuching, Jalan Matang, KL",
+    "category": "Homestay",
+    "imageUrl": "https://images.pexels.com/photos/6121916/pexels-photo-6121916.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "rating": 0,
+    "oldPrice": 320,
+    "discountPrice": 290
+  },
+  {
+    "id": 1,
+    "name": "Saab",
+    "address": "Regalia Residency, Jalan Sultan Ismail, Kuala Lumpur, Malaysia",
+    "category": "Homestay",
+    "imageUrl": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "rating": 0,
+    "oldPrice": 270,
+    "discountPrice": 250
+  },
+  {
+    "id": 2,
+    "name": "Zaman Homestay",
+    "address": "No 30,Lorong Jambu 5 Taman Seri Delima Jalan Kuching 52000 Kuala Lumpur",
+    "category": "Homestay",
+    "imageUrl": "https://images.pexels.com/photos/3255245/pexels-photo-3255245.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "rating": 0,
+    "oldPrice": 280,
+    "discountPrice": 220
+  },
+  {
+    "id": 3,
+    "name": "Casarozza Homestay",
+    "address": "Block D2, Jalan BBLS 2, Bandar Baru Lembah Selatan, Southville City, 43800 Bangi",
+    "category": "Homestay",
+    "imageUrl": "https://images.pexels.com/photos/13084292/pexels-photo-13084292.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "rating": 0,
+    "oldPrice": 230,
+    "discountPrice": 200
+  },
+  {
+    "id": 4,
+    "name": "Homestay Eclipse",
+    "address": "ET2-12-14,Menara Eclipse 2,Persiaran Multimedia,Jalan Bestari,Cyber 11,Cyberjaya",
+    "category": "Homestay",
+    "imageUrl": "https://images.pexels.com/photos/13041126/pexels-photo-13041126.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "rating": 0,
+    "oldPrice": 340,
+    "discountPrice": 315
+  },
+  {
+    "id": 5,
+    "name": "D'Wanis Homestay",
+    "address": "Lot 2656 Lorong 1 Kg. Sg. Kajang Lama Tanjong Karang",
+    "category": "Homestay",
+    "imageUrl": "https://images.pexels.com/photos/6658767/pexels-photo-6658767.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "rating": 0,
+    "oldPrice": 240,
+    "discountPrice": 210
+  }
+]
